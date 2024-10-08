@@ -1,0 +1,1227 @@
+[
+    {
+        "af_fcm_RosterId": "ROSTER_0_0",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-18T04:16:42",
+        "af_ChocksInProjected": "2024-09-18T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_0",
+            "af_Crew": {
+                "af_Crew": "Crew_0_0",
+                "af_CrewName": "Dummy Crew 0_0",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-18T03:16:42",
+                "af_TimeOffActual": "2024-09-18T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_1",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-19T04:16:42",
+        "af_ChocksInProjected": "2024-09-19T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_1",
+            "af_Crew": {
+                "af_Crew": "Crew_0_1",
+                "af_CrewName": "Dummy Crew 0_1",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-19T03:16:42",
+                "af_TimeOffActual": "2024-09-19T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_2",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-20T04:16:42",
+        "af_ChocksInProjected": "2024-09-20T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_2",
+            "af_Crew": {
+                "af_Crew": "Crew_0_2",
+                "af_CrewName": "Dummy Crew 0_2",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-20T03:16:42",
+                "af_TimeOffActual": "2024-09-20T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_3",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-21T04:16:42",
+        "af_ChocksInProjected": "2024-09-21T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_3",
+            "af_Crew": {
+                "af_Crew": "Crew_0_3",
+                "af_CrewName": "Dummy Crew 0_3",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-21T03:16:42",
+                "af_TimeOffActual": "2024-09-21T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_4",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-22T04:16:42",
+        "af_ChocksInProjected": "2024-09-22T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_4",
+            "af_Crew": {
+                "af_Crew": "Crew_0_4",
+                "af_CrewName": "Dummy Crew 0_4",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-22T03:16:42",
+                "af_TimeOffActual": "2024-09-22T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_5",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-23T04:16:42",
+        "af_ChocksInProjected": "2024-09-23T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_5",
+            "af_Crew": {
+                "af_Crew": "Crew_0_5",
+                "af_CrewName": "Dummy Crew 0_5",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-23T03:16:42",
+                "af_TimeOffActual": "2024-09-23T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_0_6",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_0",
+            "af_FlightNumber": "PR 112",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KLAX",
+            "af_FlightType": "B777",
+            "af_TimeUTCDeparture": "11:05",
+            "af_TimeUTCArrival": "09:50",
+            "af_TotalFlightHours": 15.21
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-24T04:16:42",
+        "af_ChocksInProjected": "2024-09-24T19:29:18",
+        "af_TotalFlightHours": 15.21,
+        "af_Origin": "RPLL",
+        "af_Destination": "KLAX",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_0_6",
+            "af_Crew": {
+                "af_Crew": "Crew_0_6",
+                "af_CrewName": "Dummy Crew 0_6",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-24T03:16:42",
+                "af_TimeOffActual": "2024-09-24T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_0",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-18T04:16:42",
+        "af_ChocksInProjected": "2024-09-18T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_0",
+            "af_Crew": {
+                "af_Crew": "Crew_1_0",
+                "af_CrewName": "Dummy Crew 1_0",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-18T03:16:42",
+                "af_TimeOffActual": "2024-09-18T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_1",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-19T04:16:42",
+        "af_ChocksInProjected": "2024-09-19T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_1",
+            "af_Crew": {
+                "af_Crew": "Crew_1_1",
+                "af_CrewName": "Dummy Crew 1_1",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-19T03:16:42",
+                "af_TimeOffActual": "2024-09-19T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_2",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-20T04:16:42",
+        "af_ChocksInProjected": "2024-09-20T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_2",
+            "af_Crew": {
+                "af_Crew": "Crew_1_2",
+                "af_CrewName": "Dummy Crew 1_2",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-20T03:16:42",
+                "af_TimeOffActual": "2024-09-20T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_3",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-21T04:16:42",
+        "af_ChocksInProjected": "2024-09-21T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_3",
+            "af_Crew": {
+                "af_Crew": "Crew_1_3",
+                "af_CrewName": "Dummy Crew 1_3",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-21T03:16:42",
+                "af_TimeOffActual": "2024-09-21T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_4",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-22T04:16:42",
+        "af_ChocksInProjected": "2024-09-22T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_4",
+            "af_Crew": {
+                "af_Crew": "Crew_1_4",
+                "af_CrewName": "Dummy Crew 1_4",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-22T03:16:42",
+                "af_TimeOffActual": "2024-09-22T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_5",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-23T04:16:42",
+        "af_ChocksInProjected": "2024-09-23T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_5",
+            "af_Crew": {
+                "af_Crew": "Crew_1_5",
+                "af_CrewName": "Dummy Crew 1_5",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-23T03:16:42",
+                "af_TimeOffActual": "2024-09-23T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_1_6",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_1",
+            "af_FlightNumber": "PR 126",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "KJFK",
+            "af_FlightType": "A350",
+            "af_TimeUTCDeparture": "19:00",
+            "af_TimeUTCArrival": "23:00",
+            "af_TotalFlightHours": 17.0
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC4567",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-24T04:16:42",
+        "af_ChocksInProjected": "2024-09-24T21:16:42",
+        "af_TotalFlightHours": 17.0,
+        "af_Origin": "RPLL",
+        "af_Destination": "KJFK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_1_6",
+            "af_Crew": {
+                "af_Crew": "Crew_1_6",
+                "af_CrewName": "Dummy Crew 1_6",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-24T03:16:42",
+                "af_TimeOffActual": "2024-09-24T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_0",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-18T04:16:42",
+        "af_ChocksInProjected": "2024-09-18T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_0",
+            "af_Crew": {
+                "af_Crew": "Crew_2_0",
+                "af_CrewName": "Dummy Crew 2_0",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-18T03:16:42",
+                "af_TimeOffActual": "2024-09-18T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_1",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-19T04:16:42",
+        "af_ChocksInProjected": "2024-09-19T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_1",
+            "af_Crew": {
+                "af_Crew": "Crew_2_1",
+                "af_CrewName": "Dummy Crew 2_1",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-19T03:16:42",
+                "af_TimeOffActual": "2024-09-19T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_2",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-20T04:16:42",
+        "af_ChocksInProjected": "2024-09-20T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_2",
+            "af_Crew": {
+                "af_Crew": "Crew_2_2",
+                "af_CrewName": "Dummy Crew 2_2",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-20T03:16:42",
+                "af_TimeOffActual": "2024-09-20T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_3",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-21T04:16:42",
+        "af_ChocksInProjected": "2024-09-21T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_3",
+            "af_Crew": {
+                "af_Crew": "Crew_2_3",
+                "af_CrewName": "Dummy Crew 2_3",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-21T03:16:42",
+                "af_TimeOffActual": "2024-09-21T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_4",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-22T04:16:42",
+        "af_ChocksInProjected": "2024-09-22T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_4",
+            "af_Crew": {
+                "af_Crew": "Crew_2_4",
+                "af_CrewName": "Dummy Crew 2_4",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-22T03:16:42",
+                "af_TimeOffActual": "2024-09-22T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_5",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-23T04:16:42",
+        "af_ChocksInProjected": "2024-09-23T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_5",
+            "af_Crew": {
+                "af_Crew": "Crew_2_5",
+                "af_CrewName": "Dummy Crew 2_5",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-23T03:16:42",
+                "af_TimeOffActual": "2024-09-23T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_2_6",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_2",
+            "af_FlightNumber": "PR 658",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OMDB",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "12:40",
+            "af_TimeUTCArrival": "18:05",
+            "af_TotalFlightHours": 8.96
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3501",
+            "af_AircraftType": "A350",
+            "af_Capacity": 314
+        },
+        "af_ChocksOutProjected": "2024-09-24T04:16:42",
+        "af_ChocksInProjected": "2024-09-24T13:14:18",
+        "af_TotalFlightHours": 8.96,
+        "af_Origin": "RPLL",
+        "af_Destination": "OMDB",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_2_6",
+            "af_Crew": {
+                "af_Crew": "Crew_2_6",
+                "af_CrewName": "Dummy Crew 2_6",
+                "af_CrewType": "Flight Engineer",
+                "af_Rank": "First Officer",
+                "af_TimeInActual": "2024-09-24T03:16:42",
+                "af_TimeOffActual": "2024-09-24T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_0",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-18T04:16:42",
+        "af_ChocksInProjected": "2024-09-18T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_0",
+            "af_Crew": {
+                "af_Crew": "Crew_3_0",
+                "af_CrewName": "Dummy Crew 3_0",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-18T03:16:42",
+                "af_TimeOffActual": "2024-09-18T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_1",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-19T04:16:42",
+        "af_ChocksInProjected": "2024-09-19T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_1",
+            "af_Crew": {
+                "af_Crew": "Crew_3_1",
+                "af_CrewName": "Dummy Crew 3_1",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-19T03:16:42",
+                "af_TimeOffActual": "2024-09-19T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_2",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-20T04:16:42",
+        "af_ChocksInProjected": "2024-09-20T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_2",
+            "af_Crew": {
+                "af_Crew": "Crew_3_2",
+                "af_CrewName": "Dummy Crew 3_2",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-20T03:16:42",
+                "af_TimeOffActual": "2024-09-20T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_3",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-21T04:16:42",
+        "af_ChocksInProjected": "2024-09-21T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_3",
+            "af_Crew": {
+                "af_Crew": "Crew_3_3",
+                "af_CrewName": "Dummy Crew 3_3",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-21T03:16:42",
+                "af_TimeOffActual": "2024-09-21T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_4",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-22T04:16:42",
+        "af_ChocksInProjected": "2024-09-22T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_4",
+            "af_Crew": {
+                "af_Crew": "Crew_3_4",
+                "af_CrewName": "Dummy Crew 3_4",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-22T03:16:42",
+                "af_TimeOffActual": "2024-09-22T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_5",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-23T04:16:42",
+        "af_ChocksInProjected": "2024-09-23T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_5",
+            "af_Crew": {
+                "af_Crew": "Crew_3_5",
+                "af_CrewName": "Dummy Crew 3_5",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-23T03:16:42",
+                "af_TimeOffActual": "2024-09-23T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_3_6",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_3",
+            "af_FlightNumber": "PR 654",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "OERK",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "11:50",
+            "af_TimeUTCArrival": "17:20",
+            "af_TotalFlightHours": 9.58
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC3301",
+            "af_AircraftType": "A330",
+            "af_Capacity": 295
+        },
+        "af_ChocksOutProjected": "2024-09-24T04:16:42",
+        "af_ChocksInProjected": "2024-09-24T13:51:30",
+        "af_TotalFlightHours": 9.58,
+        "af_Origin": "RPLL",
+        "af_Destination": "OERK",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_3_6",
+            "af_Crew": {
+                "af_Crew": "Crew_3_6",
+                "af_CrewName": "Dummy Crew 3_6",
+                "af_CrewType": "Captain",
+                "af_Rank": "Senior Captain",
+                "af_TimeInActual": "2024-09-24T03:16:42",
+                "af_TimeOffActual": "2024-09-24T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_0",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-18T04:16:42",
+        "af_ChocksInProjected": "2024-09-18T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_0",
+            "af_Crew": {
+                "af_Crew": "Crew_4_0",
+                "af_CrewName": "Dummy Crew 4_0",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-18T03:16:42",
+                "af_TimeOffActual": "2024-09-18T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_1",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-19T04:16:42",
+        "af_ChocksInProjected": "2024-09-19T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_1",
+            "af_Crew": {
+                "af_Crew": "Crew_4_1",
+                "af_CrewName": "Dummy Crew 4_1",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-19T03:16:42",
+                "af_TimeOffActual": "2024-09-19T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_2",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-20T04:16:42",
+        "af_ChocksInProjected": "2024-09-20T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_2",
+            "af_Crew": {
+                "af_Crew": "Crew_4_2",
+                "af_CrewName": "Dummy Crew 4_2",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-20T03:16:42",
+                "af_TimeOffActual": "2024-09-20T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_3",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-21T04:16:42",
+        "af_ChocksInProjected": "2024-09-21T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_3",
+            "af_Crew": {
+                "af_Crew": "Crew_4_3",
+                "af_CrewName": "Dummy Crew 4_3",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-21T03:16:42",
+                "af_TimeOffActual": "2024-09-21T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_4",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-22T04:16:42",
+        "af_ChocksInProjected": "2024-09-22T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_4",
+            "af_Crew": {
+                "af_Crew": "Crew_4_4",
+                "af_CrewName": "Dummy Crew 4_4",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-22T03:16:42",
+                "af_TimeOffActual": "2024-09-22T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_5",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-23T04:16:42",
+        "af_ChocksInProjected": "2024-09-23T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_5",
+            "af_Crew": {
+                "af_Crew": "Crew_4_5",
+                "af_CrewName": "Dummy Crew 4_5",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-23T03:16:42",
+                "af_TimeOffActual": "2024-09-23T04:16:42"
+            }
+        }
+    },
+    {
+        "af_fcm_RosterId": "ROSTER_4_6",
+        "af_Flight": {
+            "af_fcm_FlightId": "Flight_4",
+            "af_FlightNumber": "PR 211",
+            "af_Aerodrome_Origin": "RPLL",
+            "af_Aerodrome_Destination": "YSSY",
+            "af_FlightType": "A333",
+            "af_TimeUTCDeparture": "22:25",
+            "af_TimeUTCArrival": "08:45+1",
+            "af_TotalFlightHours": 8.12
+        },
+        "af_Aircraft": {
+            "af_TailNumber": "RPC1234",
+            "af_AircraftType": "B777",
+            "af_Capacity": 396
+        },
+        "af_ChocksOutProjected": "2024-09-24T04:16:42",
+        "af_ChocksInProjected": "2024-09-24T12:23:54",
+        "af_TotalFlightHours": 8.12,
+        "af_Origin": "RPLL",
+        "af_Destination": "YSSY",
+        "af_FlightType": "Scheduled",
+        "af_RosterPairing": {
+            "af_fcm_RosterPairingId": "RP_4_6",
+            "af_Crew": {
+                "af_Crew": "Crew_4_6",
+                "af_CrewName": "Dummy Crew 4_6",
+                "af_CrewType": "First Officer",
+                "af_Rank": "Junior Captain",
+                "af_TimeInActual": "2024-09-24T03:16:42",
+                "af_TimeOffActual": "2024-09-24T04:16:42"
+            }
+        }
+    }
+]
