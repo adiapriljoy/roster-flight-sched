@@ -5,7 +5,7 @@ import MainLayout from "./components/layout/MainLayout";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Loading from "./components/Loading";
 
-const HomePage = lazy(() => import("./pages/HomePage"));
+const FlightSchedule = lazy(() => import("./pages/FlightSchedule"));
 
 export const router = createBrowserRouter([
   {
@@ -13,10 +13,10 @@ export const router = createBrowserRouter([
     element: <MainLayout />,
     children: [
       {
-        path: "home",
+        path: "",
         element: (
           <Suspense fallback={<Loading />}>
-            <ProtectedRoute element={<HomePage />} />
+            <ProtectedRoute element={<FlightSchedule />} />
           </Suspense>
         ),
       },

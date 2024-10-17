@@ -6,29 +6,29 @@ export const ButtonStyle = defineStyleConfig({
     borderRadius: 4,
     _focus: {
       ring: 2,
-      ringColor: "primary",
+      ringColor: "primary.600",
     },
   },
   sizes: {},
   variants: {
     solid: {
-      bg: "primary", 
+      bg: "primary.600", 
       color: "pureWhite",
         
       _loading: {
-        backgroundColor: "primary", 
+        backgroundColor: "primary.600", 
         cursor: "not-allowed", 
       }, 
 
       _focus: {
         ring: 1,
         borderRadius: 6,
-        ringColor: "primary",
+        ringColor: "primary.600",
       },
 
       _hover: {
         backgroundColor: darkenHexColor("#0078D4", 0.2),
-        borderColor: "primary",
+        borderColor: "primary.600",
       },
 
       _active: {
@@ -37,31 +37,31 @@ export const ButtonStyle = defineStyleConfig({
 
       _disabled: {
         _hover: {
-          backgroundColor: "primary",
+          backgroundColor: "primary.600",
         },
       },
     },
     rounded: {
-      bg: "primary", 
+      bg: "primary.600", 
       color: "pureWhite",
       borderRadius: 50,
         
       _loading: {
-        backgroundColor: "primary", 
+        backgroundColor: "primary.600", 
         cursor: "not-allowed", 
         _hover:{
-          backgroundColor: "primary",
+          backgroundColor: "primary.600",
         }
       }, 
 
       _focus: {
         ring: 1,
-        ringColor: "primary",
+        ringColor: "primary.600",
       },
 
       _hover: {
         backgroundColor: darkenHexColor("#0078D4", 0.2),
-        borderColor: "primary",
+        borderColor: "primary.600",
       },
 
       _active: {
@@ -70,7 +70,7 @@ export const ButtonStyle = defineStyleConfig({
 
       _disabled: {
         _hover: {
-          backgroundColor: "primary",
+          backgroundColor: "primary.600",
         },
       },
     },
@@ -84,6 +84,30 @@ export const ButtonStyle = defineStyleConfig({
         outline: "none",
       }
     },
+    select: {
+      borderRadius: "0.25rem",
+      boxShadow: "0 0.25rem 0.375rem rgba(0, 0, 0, 0.1)",
+      border: "1px",
+      borderColor: "#EFEFEF",
+      height: "2.75rem",
+      width: "100%",
+      textAlign: "left",
+      fontWeight: "normal",
+      color: "text",
+      _active: {
+        borderRadius: "0.25rem",
+        boxShadow: "0 0.25rem 0.375rem rgba(0, 0, 0, 0.1)",
+        border: "1px",
+        borderColor: "primary.600",
+      },
+      _focus: {
+        ring: "none",
+        boxShadow: "0 0.25rem 0.375rem rgba(0, 0, 0, 0.1)",
+      },
+      _invalid: {
+        borderColor: "danger",
+      }
+    },
   },
-  defaultProps: { colorScheme: "primary" },
+  defaultProps: { colorScheme: "primary.600" },
 });

@@ -19,6 +19,22 @@ export const InpuStyle = defineStyleConfig({
         },
       },
     },
+    ghost: {
+      field: {
+        borderRadius: "0.25rem",
+        boxShadow: "0 0.25rem 0.375rem rgba(0, 0, 0, 0.1)",
+        border: "1px",
+        borderColor: "#EFEFEF",
+        height: "2.75rem",
+        color: "text",
+        _focus: {
+          borderColor: "primary.600",
+        },
+        _invalid: {
+          borderColor: "danger",
+        }
+      },
+    },
     outline: {
       borderRadius: "0.25rem", 
       field: {

@@ -12,7 +12,7 @@ const NotFoundPage = () => {
         <Text fontSize="5xl" as="b" color="textMuted">
           Page Not Found
         </Text>
-        <Button as={Link} to="/home" leftIcon={<ArrowBackIcon />}>
+        <Button as={Link} to="/" leftIcon={<ArrowBackIcon />}>
           GO HOME
         </Button>
       </VStack>
