@@ -1,4 +1,4 @@
-import { Grid, Box, useDisclosure, Button, Modal, ModalBody, ModalCloseButton, ModalContent, ModalFooter, ModalHeader, ModalOverlay } from "@chakra-ui/react";
+import { Grid, Box, useDisclosure } from "@chakra-ui/react";
 import React, { useState } from "react";
 import { FlightScheduleItem } from "../../../../models/interface";
 import DraggableSchedule from "./DraggableSchedule";
@@ -10,6 +10,7 @@ import { useDrop } from "react-dnd";
 import useAdjustedSchedules from "../../../../hooks/useAdjustedSchedules";
 import useUpdateSchedule from "../../../../hooks/useUpdateSchedule";
 import { positionToTime } from "../../../../utils/flightRoster";
+import FlightAddModal from "../FlightModal/FlightAddModal";
 
 interface FlightScheduleProps {
   schedules: FlightScheduleItem[];
@@ -45,16 +46,11 @@ const FlightSchedule: React.FC<FlightScheduleProps> = ({
   ) => {
     const rect = event.currentTarget.getBoundingClientRect();
     const clickX = event.clientX - rect.left;
-    const clickY = event.clientY - rect.top;
 
     const panelWidth = rect.width;
     const percentageX = clickX / panelWidth;
 
     const equivalentTime = positionToTime(percentageX * 100);
-
-    console.log("Click Coordinates: ", { x: clickX, y: clickY });
-    console.log("Equivalent Time: ", equivalentTime);
-    console.log("Equivalent aircraft: ", aircraft);
 
     aircraft.startTime = equivalentTime;
     setSelectedAircraft(aircraft);
@@ -94,31 +90,11 @@ const FlightSchedule: React.FC<FlightScheduleProps> = ({
           )
         )}
       </Grid>
-
-      <Modal isOpen={isOpen} onClose={onClose}>
-        <ModalOverlay />
-        <ModalContent>
-          <ModalHeader>Aircraft Information</ModalHeader>
-          <ModalCloseButton />
-          <ModalBody>
-            {selectedAircraft ? (
-              <>
-                <p><strong>Aircraft Tail Number:</strong> {selectedAircraft.tailNumber}</p>
-                <p><strong>Total Flight hours:</strong> {selectedAircraft.totalFlightHours}</p>
-                <p><strong>Total Flight hours:</strong> {selectedAircraft.startTime}</p>
-              </>
-            ) : (
-              <p>No aircraft selected.</p>
-            )}
-          </ModalBody>
-
-          <ModalFooter>
-            <Button colorScheme="blue" onClick={onClose}>
-              Close
-            </Button>
-          </ModalFooter>
-        </ModalContent>
-      </Modal>
+      <FlightAddModal
+        isOpen={isOpen}
+        selectedAircraft={selectedAircraft}
+        onClose={onClose}
+      />
     </Box>
   );
 };

@@ -59,7 +59,6 @@ const Flight: React.FC = () => {
             <FlightFilterSection />
           </GridItem>
           <GridItem colSpan={5} padding={0}>
-            {/* <RosterGrid1 /> */}
             {isRosterDataLoading ? (
               <></>
             ) : (

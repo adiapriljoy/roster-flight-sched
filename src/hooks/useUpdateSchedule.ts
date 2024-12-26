@@ -15,10 +15,6 @@ const useUpdateSchedule = ({ onScheduleUpdate }: UpdateScheduleHookProps) => {
   const updateSchedule = useCallback(
     (schedule: any, monitor: any) => {
       const sched = schedule.schedule;
-      console.log("sched: ", sched);
-      const delta = monitor.getSourceClientOffset();
-      const positionInPanel = monitor.getClientOffset();
-      console.log("dropped: ", delta, positionInPanel, sched);
 
       const deltaX = monitor.getDifferenceFromInitialOffset()?.x || 0;
       const percentageMoved =
@@ -34,9 +30,7 @@ const useUpdateSchedule = ({ onScheduleUpdate }: UpdateScheduleHookProps) => {
       );
 
       sched.flightType = "Scheduled";
-      console.log("new: ", sched);
 
-      console.log("newTimes: ", newStartTime, newEndTime);
       if (newStartTime < MIN_TIME || newEndTime > MAX_TIME) {
         toast({
           variant: "subtle",
